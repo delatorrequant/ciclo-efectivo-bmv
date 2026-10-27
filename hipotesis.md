@@ -47,4 +47,5 @@ Porque:
 Respuesta:
 -No
 Por qué:
+
 -Porque todas venden son empresas que trasecendieron y pueden adpatarse a cualquier crisis.
