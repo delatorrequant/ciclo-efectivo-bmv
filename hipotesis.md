@@ -11,9 +11,9 @@ Por qué:
 
 -Porque es la emrpesa con los productos mas rapidos em descomponerse y dejen de ser provechosos por lo que la converita en la emrpesa con el ciclo mas corto.
 
--Ademas la mayoria de sus clientes pagan a credito por la mayor cantidad que produce de su producto esta empres.
+-Ademas la mayoria de sus clientes pagan a contado por la mayor cantidad que produce de su producto esta empresa.
 
--Si, ya quedo es una empresa reconocida nacionalmente
+-Puede pero es la que menor poder tiene de las empresas mencionadas.
 
 
 2.Bimbo
@@ -56,9 +56,10 @@ Porque:
 
 -Es una de las empresas que mas vende a mayoreo en el mundo por lo que puede esperar en periodos largos para vender sus productos, ademas de que vende todo tipo de producto con diferentes periodos de vida entre cada uno.
 
--Le pagan con credito pero mayormente a contado porque son productos de todo tipo.
+-Le pagan de contado pero mayormente a credito porque son productos de todo tipo.
 
 -Si, es muy poderosa a nivel mundial
+
 ## Orden de menor a mayor
 1.Gruma
 
