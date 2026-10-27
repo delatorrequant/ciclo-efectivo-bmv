@@ -74,14 +74,14 @@ Porque:
 ## ¿Alguna con ciclo negativo?
 Respuesta:
 
-1.Gruma
+1.Cemex
 
 Por qué:
 
 
 -Inventario: Vende rapido
 
--Cobro: Cobro de contado muy rapido
+-Cobro: Cobro de credito muy rapido
 
 2.Bimbo
 
@@ -89,4 +89,4 @@ Porque:
 
 -Inventario: Vende a mucha cantidad de producto por lo que vemde rapido aparte de que tiene que vender rapido por el corto periodo de vida de sus productos.
 
--Cobro: De contado rapido
+-Cobro: De contado y credito rapido
