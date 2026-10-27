@@ -13,7 +13,7 @@ Por qué:
 
 -Ademas la mayoria de sus clientes pagan a contado por la mayor cantidad que produce de su producto esta empresa.
 
--Puede pero es la que menor poder tiene de las empresas mencionadas.
+-Tiene influencia en su sector porque es la mas famosa, pero es la que menor poder tiene de las empresas mencionadas.
 
 
 2.Bimbo
@@ -74,14 +74,14 @@ Porque:
 ## ¿Alguna con ciclo negativo?
 Respuesta:
 
-1.Cemex
+1.Gruma
 
 Por qué:
 
 
 -Inventario: Vende rapido
 
--Cobro: Cobro de credito muy rapido
+-Cobro: Cobro de contado muy rapido
 
 2.Bimbo
 
