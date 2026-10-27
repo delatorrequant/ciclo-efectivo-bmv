@@ -4,6 +4,7 @@ Escrita el 27 de octubre de 2026, antes de abrir cualquier reporte.
 
 ## Ciclo más corto
 Empresa: 
+
 1.Gruma
 
 Por qué:
