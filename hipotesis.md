@@ -73,7 +73,20 @@ Porque:
 
 ## ¿Alguna con ciclo negativo?
 Respuesta:
--No
+
+1.Gruma
+
 Por qué:
 
--Porque todas venden son empresas que trasecendieron y pueden adpatarse a cualquier crisis.
+
+-Inventario: Vende rapido
+
+-Cobro: Cobro de contado muy rapido
+
+2.Bimbo
+
+Porque:
+
+-Inventario: Vende a mucha cantidad de producto por lo que vemde rapido aparte de que tiene que vender rapido por el corto periodo de vida de sus productos.
+
+-Cobro: De contado rapido
