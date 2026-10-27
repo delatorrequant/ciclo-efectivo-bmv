@@ -34,9 +34,13 @@ Porque:
 -Es una de las empresas que mas vende a mayoreo en el mundo por lo que puede esperar en periodos largos para vender sus productos, ademas de que vende todo tipo de producto con diferentes periodos de vida entre cada uno.
 ## Orden de menor a mayor
 1.Gruma
+
 2.Bimbo
+
 3.Alsea
+
 4.Walmex
+
 5.Cemex
 
 ## ¿Alguna con ciclo negativo?
